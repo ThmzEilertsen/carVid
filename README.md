@@ -14,4 +14,9 @@ Based on youtube-dl package with the additional use of ffmpeg for second step co
   - uses full resolution from youtube, converted to mpeg4 and divx.
   - max v/a quality : 2k bitrate video, 250~ bitrate audio.
   - lvl 9000 coolness.
-  - uses list, feed freely.
+
+IVE-W530BT experiences(!!!):
+  - to high bitrate/quality makes the unit stutter.
+  - keep bitrate of video under 2,5 - 3k
+  - with -q:v set to 0(best) bitrate will exceed 6k in some instances.
+  - with -q:v set to 4(still good) bitrate will decrease to about half. still possibility for stuttering unit.
