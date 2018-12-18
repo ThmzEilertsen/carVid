@@ -5,7 +5,7 @@ import youtube_dl
 from pprint import pprint
 from slugify import slugify
 
-#   Project : YT video download & converter for ///ALPINE IVE-W530BT
+#   Project : YT video download & converter for ///ALPINE IVE-W530BT.
 #             6.1 inch wide VGA display (first gen touch screen 2din)
 #             compatible formats : MP3, WMA, AAC, DivX
 #             pixel limits : 640x360 nHD it seems!
