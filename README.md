@@ -1,6 +1,6 @@
 carVid
 
-![alt text](https://i.imgur.com/yToS3d1.jpg)
+![alt text](https://i.imgur.com/CtWiV7k.jpg)
 convertion tool for ALPINE IVE-W530BT.
   - 2din APLINE car stereo
   - WVGA 6.1" inch screen, touch (first gen?)
