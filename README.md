@@ -20,3 +20,6 @@ IVE-W530BT experiences(!!!):
   - keep bitrate of video under 2,5 - 3k
   - with -q:v set to 0(best) bitrate will exceed 6k in some instances.
   - with -q:v set to 4(still good) bitrate will decrease to about half. still possibility for stuttering unit.
+
+
+123
